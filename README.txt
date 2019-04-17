@@ -1,0 +1,1 @@
+The data in murders.cvs is wrangled and analysed in R, than plotted using the ggplot package
